@@ -1,2 +1,2 @@
 # Senior Research
- 
+The premise of my Senior Research project is to determine the average student at Eastern's resilience against phishing attacks. In order to do so, I will be surveying randomly selected students and seeing how many simulated phishing attacks they fall for. There will be two surveys, of which the selected students will be randomly assigned. One survey will have exclusively phishing attacks, while the other will have exclusively benign messages. This will be to determine how many false positives students will give. 
